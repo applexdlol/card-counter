@@ -42,6 +42,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
----
-
-You can customize the content further to better fit your project.
